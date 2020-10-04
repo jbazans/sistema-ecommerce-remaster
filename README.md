@@ -1,2 +1,2 @@
-# sistema-ecommerce-remaster
-Continuacion de la serie. Lo separo para mejor seguimiento de la serie
+# sistema-de-ecommerce---punto-y-coma
+Tu primer web E-Commerce desde cero! PHP + MYSQL con XAMPP

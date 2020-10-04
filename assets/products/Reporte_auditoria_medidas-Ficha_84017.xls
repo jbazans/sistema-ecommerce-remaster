@@ -1,0 +1,294 @@
+<div style="font-size: 20px;font-weight: bold;">Auditoria de medidas - AUDITORIA PROCESO DE CORTE</div>
+<br>
+<div style="font-weight: bold;">Cod. Ficha: 84017</div>
+<div style="font-weight: bold;">Hilo: 4.5 - Travez: 2.5 - Largamanga: 4.5</div>
+<br>
+<table>
+	<thead>
+		<tr>
+		<tr>
+			<th style="border:1px solid #333;"></th>
+			<th style="border:1px solid #333;">Medida</th>
+			<th style="border:1px solid #333;">A   </th>
+			<th style="border:1px solid #333;">B   </th>
+			<th style="border:1px solid #333;">C   </th>
+			<th style="border:1px solid #333;">D   </th>
+			<th style="border:1px solid #333;">E   </th>
+			<th style="border:1px solid #333;">F   </th>
+			<th style="border:1px solid #333;">G   </th>
+			<th style="border:1px solid #333;">H   </th>
+			<th style="border:1px solid #333;">I   </th>
+			<th style="border:1px solid #333;">J   </th>
+			<th style="border:1px solid #333;">K   </th>
+			<th style="border:1px solid #333;">L   </th>
+			<th style="border:1px solid #333;">M   </th>
+			<th style="border:1px solid #333;">N   </th>
+			<th style="border:1px solid #333;">O   </th>
+			<th style="border:1px solid #333;">1   </th>
+			<th style="border:1px solid #333;">2   </th>
+			<th style="border:1px solid #333;">3   </th>
+			<th style="border:1px solid #333;">4   </th>
+		</tr>
+		<tr>
+			<th style="border:1px solid #333;">Prenda</th>
+			<th style="border:1px solid #333;">Talla</th>
+			<th style="border:1px solid #333;">LARGO DE CUERPO DELANTERO HASTA LINEA IMAGINARIA</th>
+			<th style="border:1px solid #333;">ANCHO DE PECHO Y ESPALDA EN SISA</th>
+			<th style="border:1px solid #333;">ANCHO DE FALDON DELANTERO</th>
+			<th style="border:1px solid #333;">ANCHO DE HOMBRO DELANTERO</th>
+			<th style="border:1px solid #333;">SISA RECTA DELANTERO</th>
+			<th style="border:1px solid #333;">ABERTURA DE CUELLO DELANTERO</th>
+			<th style="border:1px solid #333;">CAIDA DE CUELLO DELANTERO</th>
+			<th style="border:1px solid #333;">LARGO DE CUERPO ESPALDA HASTA LINEA IMAGINARIA</th>
+			<th style="border:1px solid #333;">ANCHO DE HOMBRO ESPALDA</th>
+			<th style="border:1px solid #333;">SISA RECTA ESPALDA</th>
+			<th style="border:1px solid #333;">ABERTURA DE CUELLO ESPALDA</th>
+			<th style="border:1px solid #333;">CAIDA DE CUELLO ESPALDA</th>
+			<th style="border:1px solid #333;">LARGO SUPERIOR DE MANGA</th>
+			<th style="border:1px solid #333;">BICEP ANCHO SUPERIOR DE MANGA</th>
+			<th style="border:1px solid #333;">ANCHO DE BOCA DE MANGA</th>
+			<th style="border:1px solid #333;">ALTO DE MEDIO PECHO DELANTERO</th>
+			<th style="border:1px solid #333;">ANCHO DE MEDIO PECHO DELANTERO</th>
+			<th style="border:1px solid #333;">ALTO DE MEDIO PECHO ESPALDA</th>
+			<th style="border:1px solid #333;">ANCHO E MEDIO PECHO ESPALDA</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid #333;">1</td>
+			<td style="border:1px solid #333;">XS</td>
+			<td style="border:1px solid #333;">'0</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid #333;">1</td>
+			<td style="border:1px solid #333;">S</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid #333;">1</td>
+			<td style="border:1px solid #333;">M</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid #333;">1</td>
+			<td style="border:1px solid #333;">L</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+		</tr>
+		<tr>
+			<td style="border:1px solid #333;">1</td>
+			<td style="border:1px solid #333;">XL</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+			<td style="border:1px solid #333;">'</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table>
+	<tbody>
+		<tr>
+		<tr>
+			<td></td>
+			<td style="border:1px solid #333;">XS</td>
+			<td style="border:1px solid #333;">26 13/16</td>
+			<td style="border:1px solid #333;">18</td>
+			<td style="border:1px solid #333;">19  1/4</td>
+			<td style="border:1px solid #333;">14  1/2</td>
+			<td style="border:1px solid #333;">6  3/4</td>
+			<td style="border:1px solid #333;">7  3/16</td>
+			<td style="border:1px solid #333;">3 13/16</td>
+			<td style="border:1px solid #333;">27  5/16</td>
+			<td style="border:1px solid #333;">14  3/4</td>
+			<td style="border:1px solid #333;">7  1/4</td>
+			<td style="border:1px solid #333;">7  9/16</td>
+			<td style="border:1px solid #333;">1  1/2</td>
+			<td style="border:1px solid #333;">5  5/16</td>
+			<td style="border:1px solid #333;">13  3/4</td>
+			<td style="border:1px solid #333;">11  1/2</td>
+			<td style="border:1px solid #333;">5  1/4</td>
+			<td style="border:1px solid #333;">12  1/2</td>
+			<td style="border:1px solid #333;">5  3/4</td>
+			<td style="border:1px solid #333;">13  1/2</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td style="border:1px solid #333;">S</td>
+			<td style="border:1px solid #333;">27  5/16</td>
+			<td style="border:1px solid #333;">19</td>
+			<td style="border:1px solid #333;">20  1/4</td>
+			<td style="border:1px solid #333;">15</td>
+			<td style="border:1px solid #333;">7  1/4</td>
+			<td style="border:1px solid #333;">7  7/16</td>
+			<td style="border:1px solid #333;">3 15/16</td>
+			<td style="border:1px solid #333;">27 13/16</td>
+			<td style="border:1px solid #333;">15  1/4</td>
+			<td style="border:1px solid #333;">7  3/4</td>
+			<td style="border:1px solid #333;">7 13/16</td>
+			<td style="border:1px solid #333;">1  5/8</td>
+			<td style="border:1px solid #333;">5  9/16</td>
+			<td style="border:1px solid #333;">14  1/2</td>
+			<td style="border:1px solid #333;">12  1/2</td>
+			<td style="border:1px solid #333;">5  1/4</td>
+			<td style="border:1px solid #333;">13</td>
+			<td style="border:1px solid #333;">5  3/4</td>
+			<td style="border:1px solid #333;">14</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td style="border:1px solid #333;">M</td>
+			<td style="border:1px solid #333;">27 13/16</td>
+			<td style="border:1px solid #333;">20</td>
+			<td style="border:1px solid #333;">21  1/4</td>
+			<td style="border:1px solid #333;">15  1/2</td>
+			<td style="border:1px solid #333;">7  3/4</td>
+			<td style="border:1px solid #333;">7 11/16</td>
+			<td style="border:1px solid #333;">4  1/16</td>
+			<td style="border:1px solid #333;">28  5/16</td>
+			<td style="border:1px solid #333;">15  3/4</td>
+			<td style="border:1px solid #333;">8  1/4</td>
+			<td style="border:1px solid #333;">8  1/16</td>
+			<td style="border:1px solid #333;">1  3/4</td>
+			<td style="border:1px solid #333;">5 13/16</td>
+			<td style="border:1px solid #333;">15  9/16</td>
+			<td style="border:1px solid #333;">13  1/2</td>
+			<td style="border:1px solid #333;">5  1/4</td>
+			<td style="border:1px solid #333;">13  1/2</td>
+			<td style="border:1px solid #333;">5  3/4</td>
+			<td style="border:1px solid #333;">14  1/2</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td style="border:1px solid #333;">L</td>
+			<td style="border:1px solid #333;">28  5/16</td>
+			<td style="border:1px solid #333;">21</td>
+			<td style="border:1px solid #333;">22  1/4</td>
+			<td style="border:1px solid #333;">16</td>
+			<td style="border:1px solid #333;">8  1/4</td>
+			<td style="border:1px solid #333;">7 15/16</td>
+			<td style="border:1px solid #333;">4  3/16</td>
+			<td style="border:1px solid #333;">28 13/16</td>
+			<td style="border:1px solid #333;">16  1/4</td>
+			<td style="border:1px solid #333;">8  3/4</td>
+			<td style="border:1px solid #333;">8  5/16</td>
+			<td style="border:1px solid #333;">1  7/8</td>
+			<td style="border:1px solid #333;">6  1/16</td>
+			<td style="border:1px solid #333;">16 15/16</td>
+			<td style="border:1px solid #333;">14 13/16</td>
+			<td style="border:1px solid #333;">5  1/4</td>
+			<td style="border:1px solid #333;">14</td>
+			<td style="border:1px solid #333;">5  3/4</td>
+			<td style="border:1px solid #333;">15</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td style="border:1px solid #333;">XL</td>
+			<td style="border:1px solid #333;">28 13/16</td>
+			<td style="border:1px solid #333;">22  1/2</td>
+			<td style="border:1px solid #333;">23  5/8</td>
+			<td style="border:1px solid #333;">16  3/4</td>
+			<td style="border:1px solid #333;">9</td>
+			<td style="border:1px solid #333;">8  3/16</td>
+			<td style="border:1px solid #333;">4  5/16</td>
+			<td style="border:1px solid #333;">29  5/16</td>
+			<td style="border:1px solid #333;">17</td>
+			<td style="border:1px solid #333;">9  1/2</td>
+			<td style="border:1px solid #333;">8  9/16</td>
+			<td style="border:1px solid #333;">2</td>
+			<td style="border:1px solid #333;">6  5/16</td>
+			<td style="border:1px solid #333;">18  3/8</td>
+			<td style="border:1px solid #333;">16  5/8</td>
+			<td style="border:1px solid #333;">5  1/4</td>
+			<td style="border:1px solid #333;">14  3/4</td>
+			<td style="border:1px solid #333;">5  3/4</td>
+			<td style="border:1px solid #333;">15  3/4</td>
+		</tr>
+	</tbody>
+</table>
