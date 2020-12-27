@@ -16,12 +16,13 @@
 	}
 
 	$sql="UPDATE pedido SET dirusuped='$dirusu',telusuped='$telusu',estado=$estado,token='$token'
-	where estado=1";
+	where estado=1 and codusu=$codusu";
 	$result=mysqli_query($con,$sql);
 	if ($result) {
 		$response->state=true;
 	}else{
 		$response->state=false;
+		$response->sql=$sql;
 		$response->detail="No se pudo actualizar el pedido. Intente más tarde";
 	}
 

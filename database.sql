@@ -44,3 +44,4 @@ create table PEDIDO(
 	telusuped varchar(12) not null,
 	PRIMARY KEY (codped)
 );
+alter table PEDIDO add token varchar(30) null;

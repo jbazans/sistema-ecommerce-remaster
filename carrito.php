@@ -14,29 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 <body>
-	<header>
-		<div class="logo-place"><a href="index.php"><img src="assets/logo.png"></a></div>
-		<div class="search-place">
-			<input type="text" id="idbusqueda" placeholder="Encuenta todo lo que necesitas...">
-			<button class="btn-main btn-search"><i class="fa fa-search" aria-hidden="true"></i></button>
-		</div>
-		<div class="options-place">
-			<?php
-			if (isset($_SESSION['codusu'])) {
-				echo
-				'<div class="item-option"><i class="fa fa-user-circle-o" aria-hidden="true"></i><p>'.$_SESSION['nomusu'].'</p></div>';
-			}else{
-			?>
-			<div class="item-option" title="Registrate"><i class="fa fa-user-circle-o" aria-hidden="true"></i></div>
-			<div class="item-option" title="Ingresar"><i class="fa fa-sign-in" aria-hidden="true"></i></div>
-			<?php
-			}
-			?>
-			<div class="item-option" title="Mis compras">
-				<a href="carrito.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
-			</div>
-		</div>
-	</header>
+	<?php include("layouts/_main-header.php"); ?>
 	<div class="main-content">
 		<div class="content-page">
 			<h3>Mi carrito</h3>
@@ -58,6 +36,7 @@
 			<button onclick="procesar_compra()" style="margin-top: 5px;">Procesar compra</button>
 		</div>
 	</div>
+	<script type="text/javascript" src="js/main-scripts.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$.ajax({
