@@ -11,9 +11,6 @@
 			'<div class="item-option" onclick="mostrar_opciones()"><i class="fa fa-user-circle-o" aria-hidden="true"></i><p>'.$_SESSION['nomusu'].'</p></div>';
 		}else{
 		?>
-		<div class="item-option" title="Registrate">
-			<a href="login.php"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
-		</div>
 		<div class="item-option" title="Ingresar">
 			<a href="login.php"><i class="fa fa-sign-in" aria-hidden="true"></i></a>
 		</div>
@@ -23,6 +20,9 @@
 		<div class="item-option" title="Mis compras">
 			<a href="carrito.php"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a>
 		</div>
+	</div>
+	<div class="menu-movil">
+		<div class="item-option" onclick="mostrar_opciones()"><i class="fa fa-bars" aria-hidden="true"></i></div>
 	</div>
 </header>
 <script type="text/javascript">
@@ -34,7 +34,10 @@
 		}
 	}
 </script>
-<div class="menu-opciones" id="ctrl-menu" style="display: none;">
+<div class="menu-opciones" id="ctrl-menu" style="display: none;">	
+	<?php
+	if (isset($_SESSION['codusu'])) {
+	?>
 	<ul>
 		<li>
 			<a href="historial.php">
@@ -47,4 +50,22 @@
 			</a>
 		</li>
 	</ul>
+	<?php
+	}else{
+	?>
+	<ul>
+		<li>
+			<a href="login.php">
+				<div class="menu-opcion">Iniciar sessión</div>
+			</a>
+		</li>
+		<li>
+			<a href="carrito.php">
+				<div class="menu-opcion">Carrito</div>
+			</a>
+		</li>
+	</ul>
+	<?php
+	}
+	?>
 </div>
