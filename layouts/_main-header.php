@@ -40,6 +40,11 @@
 	?>
 	<ul>
 		<li>
+			<a href="carrito.php">
+				<div class="menu-opcion">Carrito</div>
+			</a>
+		</li>
+		<li>
 			<a href="historial.php">
 				<div class="menu-opcion">Historial de compras</div>
 			</a>

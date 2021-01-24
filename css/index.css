@@ -360,7 +360,7 @@ input[type="radio"]{
 		display: block;
 	}
 	.part2{
-		width: 100%;
+		width: calc(100% - 20px);
 	}
 	.part2 h2,.part2 h1,.part2 h3{
 		margin: 0;
@@ -376,5 +376,14 @@ input[type="radio"]{
 	}
 	.part2 h4{
 		font-size: 14px;
+	}
+	.pedido-img{
+		width: 120px;
+	}
+	.pedido-detalle{
+		width: calc(100% - 140px);
+	}
+	h3{
+		margin: 10px 0;
 	}
 }
