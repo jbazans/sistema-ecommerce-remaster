@@ -21,6 +21,7 @@
 			</div>
 		</div>
 	</div>
+	<?php include("layouts/_footer.php"); ?>
 	<script type="text/javascript" src="js/main-scripts.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
@@ -40,7 +41,7 @@
 							'<div class="detalle">'+
 								'<h3 class="mb5">'+data.datos[i].nompro+'</h3>'+
 								'<p class="mb5">Fecha: '+data.datos[i].fecped+'</p>'+
-								'<p class="mb5">Estado: '+data.datos[i].estado+'</p>'+
+								'<p class="mb5">Estado: '+data.datos[i].estadotxt+'</p>'+
 								'<p class="mb5">'+data.datos[i].despro+'</p>'+
 								'<h4 class="mb5">'+formato_precio(data.datos[i].prepro)+'</h4>'+
 							'</div>'+							

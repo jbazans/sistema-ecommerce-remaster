@@ -50,6 +50,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="pedido.php">
+				<div class="menu-opcion">Pedidos por pagar</div>
+			</a>
+		</li>
+		<li>
 			<a href="_logout.php">
 				<div class="menu-opcion">Salir</div>
 			</a>

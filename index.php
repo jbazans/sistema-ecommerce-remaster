@@ -21,6 +21,7 @@
 			</div>
 		</div>
 	</div>
+	<?php include("layouts/_footer.php"); ?>
 	<script type="text/javascript" src="js/main-scripts.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){

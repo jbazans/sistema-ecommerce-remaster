@@ -29,7 +29,7 @@ $i=0;
 $sql="select *,ped.estado estadoped from pedido ped
 inner join producto pro
 on ped.codpro=pro.codpro
-where ped.estado!=1";
+where ped.estado=2";
 $result=mysqli_query($con,$sql);
 while($row=mysqli_fetch_array($result)){
 	$obj=new stdClass();
